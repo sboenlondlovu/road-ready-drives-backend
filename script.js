@@ -1,1 +1,1 @@
-console.log("Road Ready Website Loaded");
+console.log('loaded');
